@@ -1,4 +1,5 @@
 # Starter Web Project
+Learning how git and github works
 
 ## INTRODUCTION
 
@@ -6,6 +7,6 @@
 
 ## Deployment 
 
-## HOW To Contribute
+## How To Contribute
 
 
