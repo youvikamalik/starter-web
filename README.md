@@ -10,6 +10,6 @@ TRYING NEW GIT COMMAND "DIFF"
 
 ## How To Contribute
 
-Trying automatic merge
+Trying automatic merge for the first time
 
 ## Copyright Notice
