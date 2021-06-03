@@ -10,6 +10,10 @@ TRYING NEW GIT COMMAND "DIFF"
 
 ## How To Contribute
 
+<<<<<<< HEAD
 Trying automatic merge
+=======
+Please fork this readme file
+>>>>>>> simple-changes
 
 ## Copyright Notice
