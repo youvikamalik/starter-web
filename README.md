@@ -10,4 +10,4 @@ TRYING NEW GIT COMMAND "DIFF"
 
 ## How To Contribute
 
-
+## Copyright Notice
