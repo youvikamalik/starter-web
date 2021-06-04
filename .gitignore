@@ -1,2 +1,29 @@
 log/
+.swp
+*.html.swp
+simple.txt
+        simple_BACKUP_1701.html
+        simple_BACKUP_2051.html
+        simple_BACKUP_2342.html
+        simple_BASE_1701.html
+        simple_BASE_2051.html
+        simple_BASE_2342.html
+        simple_LOCAL_1701.html
+        simple_LOCAL_2051.html
+        simple_LOCAL_2342.html
+        simple_REMOTE_1701.html
+        simple_REMOTE_2051.html
+        simple_REMOTE_2342.html
 
+	simple_BACKUP_1701.html
+        simple_BACKUP_2051.html
+        simple_BACKUP_2342.html
+        simple_BASE_1701.html
+        simple_BASE_2051.html
+        simple_BASE_2342.html
+        simple_LOCAL_1701.html
+        simple_LOCAL_2051.html
+        simple_LOCAL_2342.html
+        simple_REMOTE_1701.html
+        simple_REMOTE_2051.html
+        simple_REMOTE_2342.html
