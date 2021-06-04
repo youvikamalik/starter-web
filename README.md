@@ -12,12 +12,11 @@ TRYING NEW GIT COMMAND "DIFF"
 
 <<<<<<< HEAD
 Trying automatic merge for the first time
-=======
+
 <<<<<<< HEAD
 Trying automatic merge
-=======
+
 Please fork this readme file
->>>>>>> simple-changes
->>>>>>> advancemerge
+
 
 ## Copyright Notice
