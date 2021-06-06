@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Youvika -- Student -- idonotusetwitter
+    Youvika -- Student -- idonotusetwittermuch
 
 # THANKS
 
-    Youvika
+    Youvika Malik
 
 # TECHNOLOGY COLOPHON
 
