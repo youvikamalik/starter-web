@@ -10,16 +10,6 @@ This is showing different part of repository
 
 ## How To Contribute
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Trying automatic merge for the first time
+Trying Rebase Conflicts
 
-<<<<<<< HEAD
-Trying automatic merge
-
-Please fork this readme file
-
-
-=======
->>>>>>> newbranch
 ## Copyright Notice
