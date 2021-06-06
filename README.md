@@ -1,5 +1,5 @@
 # Starter Web Project
-Learning how git and github works
+Adding a line to try rebase.
 
 ## INTRODUCTION
 This is showing different part of repository
