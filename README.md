@@ -13,5 +13,5 @@ This is showing different part of repository
 Trying Rebase Conflicts
 
 ## Copyright Notice
-
-ALL RIGHTS RESERVED
+ 
+ALL RIGHTS RESERVED FOR YOUVIKA!
