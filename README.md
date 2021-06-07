@@ -1,5 +1,5 @@
 # Starter Web Project
-Adding a line to try rebase, adding more changes from myfeature branch.
+HAPPY ME! Adding a line to try rebase, adding more changes from myfeature branch.
 
 ## INTRODUCTION
 This is showing different part of repository
